@@ -1,0 +1,28 @@
+:root {
+  background-color: #282c34;
+}
+
+.App {
+  text-align: center;
+}
+
+#home {
+	background: url("https://ufv.ca/media/2015/headers/programs/science/Physics_banner-3.jpg");
+}
+
+.row {
+	display: flex;
+	justify-content: center;
+	margin: 10px 0px 10px 00px;
+}
+
+.row div {
+	margin: 5px 10px 5px 10px;
+}
+
+.row img {
+	border-radius: 15px;
+	max-height: 250px;
+	max-width: 500px;
+	object-fit: contain;
+}
