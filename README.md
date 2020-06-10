@@ -1,3 +1,13 @@
+## NOTICE
+
+Since github only supports static pages and a server is required to
+render the webpage.
+
+The one that is in https://eltonc7921.github.io/freedom-project/public/
+is the static pre-rendered version of the website
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
