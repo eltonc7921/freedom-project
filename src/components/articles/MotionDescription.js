@@ -1,7 +1,7 @@
 import React from 'react';
 
 const MotionDescription = {
-	title : 'MotionDescription',
+	title : 'Motion',
 	article : <div>
 	</div>,
 }

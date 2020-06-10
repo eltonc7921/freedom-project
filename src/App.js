@@ -34,10 +34,10 @@ class App extends React.Component {
 				</div>
 				<div id='gravity' className="row">
 					<div><Article data={GravityDescription}/></div>
-					<div><img src="https://i.stack.imgur.com/brnXZ.jpg"/></div>
+					<div><img alt="no image" src="https://i.stack.imgur.com/brnXZ.jpg"/></div>
 				</div>
 				<div id='motion' className="row">
-					<div><img src="https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5f5e1e03-c6ee-4731-9d4f-b7970f6d0622/kreis.jpg"/></div>
+					<div><img alt="no image" src="https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5f5e1e03-c6ee-4731-9d4f-b7970f6d0622/kreis.jpg"/></div>
 					<div><Article data={MotionDescription}/></div>
 				</div>
 				<Footer/>

@@ -1,7 +1,7 @@
 import React from 'react';
 
 const GravityDescription = {
-	title : 'GravityDescription',
+	title : 'Gravity',
 	article : <div>
 		<p> gravity </p>
 	</div>,
