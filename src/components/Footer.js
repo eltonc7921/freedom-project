@@ -5,6 +5,7 @@ class Footer extends React.Component {
 	render() {
 		return (
 			<footer className="Footer">
+					<p> eltonc7921 </p>
 			</footer>
 		);
 	}

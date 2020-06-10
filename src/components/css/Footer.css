@@ -4,3 +4,8 @@
 	margin: 50px 0px 0px 0px;
 	background-color: #4A4E4D;
 }
+
+.Footer p {
+	padding-top: 20px;
+	color : white;
+}
